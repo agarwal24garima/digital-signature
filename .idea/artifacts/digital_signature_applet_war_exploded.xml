@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="digital_signature_applet:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/digital_signature_applet_war_exploded</output-path>
+    <root id="root" />
+  </artifact>
+</component>
